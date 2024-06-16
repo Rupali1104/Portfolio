@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio using HTML,CSS and Javascript
+A Portfolio Website using HTML,CSS and Javascript 
