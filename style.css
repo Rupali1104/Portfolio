@@ -360,6 +360,8 @@ article .icon{
 .color-container{
     border-color: rgb(163, 163, 163);
     background: rgb(250, 250, 250);
+    align-items: center;
+    justify-content: center;
 }
 
 .project-img{
@@ -376,6 +378,10 @@ article .icon{
 .project-btn{
     color: black;
     border-color: rgb(163, 163, 163);
+}
+
+.img-center{
+    padding-left: 2rem;
 }
 
 /* CONTACT */
