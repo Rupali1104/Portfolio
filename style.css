@@ -371,6 +371,10 @@ section {
     padding-left: 2rem;
 }
 
+.pro-text{
+    text-align:justify;
+}
+
 /* CONTACT */
 
 #contact{
