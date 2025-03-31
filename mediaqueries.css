@@ -2,6 +2,7 @@
     #profile{
         height: 83vh;
         margin-bottom: 6rem ;
+        margin-top: 6rem;
     }
     .about-containers{
         flex-wrap: wrap;

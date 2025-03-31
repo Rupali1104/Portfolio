@@ -71,7 +71,14 @@ a:hover{
 
 #hamburger-nav{
     display: none;
+    position: absolute; /* Or fixed, depending on your layout */
+    top: 0;
+    right: 0;
+    width: 100%; /* Adjust as needed */
+    background-color: white; /* Or any color that contrasts */
+    z-index: 1000;
 }
+
 
 .hamburger-menu{
     position: relative;
@@ -173,6 +180,8 @@ section {
     justify-content: center;
     gap: 5rem;
     height: 80vh;
+    z-index: 1;
+    position: relative;
 }
 
 .section__pic-container{
